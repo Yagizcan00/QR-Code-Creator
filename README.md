@@ -1,1 +1,1 @@
-# QR-Menu-Creator
+# QR-Code-Creator
